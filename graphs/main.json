@@ -9,17 +9,6 @@
     "inports": {},
     "outports": {},
     "groups": [],
-    "processes": {
-        "core/Output_iv75t": {
-            "component": "core/Output",
-            "metadata": {
-                "label": "Output",
-                "x": -72,
-                "y": 180,
-                "width": 72,
-                "height": 72
-            }
-        }
-    },
+    "processes": {},
     "connections": []
 }
